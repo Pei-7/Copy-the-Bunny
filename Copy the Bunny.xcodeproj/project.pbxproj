@@ -13,6 +13,7 @@
 		AF26E1D02A527773007BC207 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AF26E1CE2A527773007BC207 /* Main.storyboard */; };
 		AF26E1D22A527774007BC207 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF26E1D12A527774007BC207 /* Assets.xcassets */; };
 		AF26E1D52A527774007BC207 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AF26E1D32A527774007BC207 /* LaunchScreen.storyboard */; };
+		AF26E1E12A55259A007BC207 /* Bunny.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF26E1E02A55259A007BC207 /* Bunny.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		AF26E1D12A527774007BC207 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AF26E1D42A527774007BC207 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AF26E1D62A527774007BC207 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AF26E1E02A55259A007BC207 /* Bunny.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bunny.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				AF26E1C82A527773007BC207 /* AppDelegate.swift */,
 				AF26E1CA2A527773007BC207 /* SceneDelegate.swift */,
 				AF26E1CC2A527773007BC207 /* ViewController.swift */,
+				AF26E1E02A55259A007BC207 /* Bunny.swift */,
 				AF26E1CE2A527773007BC207 /* Main.storyboard */,
 				AF26E1D12A527774007BC207 /* Assets.xcassets */,
 				AF26E1D32A527774007BC207 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				AF26E1CD2A527773007BC207 /* ViewController.swift in Sources */,
 				AF26E1C92A527773007BC207 /* AppDelegate.swift in Sources */,
+				AF26E1E12A55259A007BC207 /* Bunny.swift in Sources */,
 				AF26E1CB2A527773007BC207 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
